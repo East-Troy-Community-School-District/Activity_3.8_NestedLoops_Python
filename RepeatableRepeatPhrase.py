@@ -1,7 +1,8 @@
 '''
 Repeatable Repeat Phrase
-1/18/2023
-Python I
+Pawelski
+10/28/2023
+Introduction to Computer Science
 
 Instructions:
 Trace the program and predict what it
